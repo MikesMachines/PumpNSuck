@@ -10,4 +10,4 @@ A programmatic, app driven vacuum pump with solenoids and pressure sensors to pr
 The contol box for all my machines has the same basic design. It leverages Blync, which allows anyone to create an app interface with no code, just drag and drop widgets and select what to hook them to. The code runs on a local ESP32 that has 4 channels, each 400w / 15A for regular loads like brushed motors / pumps. The first channel can be either brushed DC motor or stepper, selectable in the interface. 
   
   <p>
-<img src="https://github.com/MikesMachines/PumpNSuck/blob/main/media/PumpScreen.jpg" alt="Pump App screen shot" height="600">
+<img src="https://github.com/MikesMachines/PumpNSuck/blob/main/media/Pumpscreen.jpg" alt="Pump App screen shot" height="600">
